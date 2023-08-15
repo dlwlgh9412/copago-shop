@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+spring:
+  profiles:
+    active: local
+
+
+coupang-shop:
+  url: https://coapgo-coupang.shop
+telegram:
+  token:
